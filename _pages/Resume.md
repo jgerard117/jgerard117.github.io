@@ -57,4 +57,5 @@ nav: true
 <li>GSA Bulletin</li>
 <li>Science Advances</li>
 <li>Biogeosciences</li>
+<li>PNAS</li>
 </ul>
