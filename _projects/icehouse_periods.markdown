@@ -22,10 +22,7 @@ Icehouse periods are characterized by the presence of ice sheets at the poles. T
 
 <h2>Selected references</h2>
 
-<ul style="list-style-type:disc">
+- __Pohl, A.__, Austermann, J., 2018. A sea-level fingerprint of the Late Ordovician ice-sheet collapse. Geology 46(7), 595-598. doi:10.1130/G40189.1. [[link](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/46/7/595/531402/A-sea-level-fingerprint-of-the-Late-Ordovician-ice?redirectedFrom=fulltext){:target="_blank"}]
 
-<li>__Pohl, A.__, Austermann, J., 2018. A sea-level fingerprint of the Late Ordovician ice-sheet collapse. Geology 46(7), 595-598. doi:10.1130/G40189.1. [[link](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/46/7/595/531402/A-sea-level-fingerprint-of-the-Late-Ordovician-ice?redirectedFrom=fulltext){:target="_blank"}]</li>
+- __Pohl, A.__, Donnadieu, Y., Le Hir, G., Ladant, J.B., Dumas, C., Alvarez-Solas, J., Vandenbroucke, T.R.A., 2016. Glacial onset predated Late Ordovician climate cooling. Paleoceanography 31, 800–821. doi:10.1002/(ISSN)1944-9186. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016PA002928){:target="_blank"}]
 
-<li>__Pohl, A.__, Donnadieu, Y., Le Hir, G., Ladant, J.B., Dumas, C., Alvarez-Solas, J., Vandenbroucke, T.R.A., 2016. Glacial onset predated Late Ordovician climate cooling. Paleoceanography 31, 800–821. doi:10.1002/(ISSN)1944-9186. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016PA002928){:target="_blank"}]</li>
-
-</ul>

@@ -22,14 +22,11 @@ Shallow-water carbonates represent an important component of the Earth System, l
 
 <h2>Selected references</h2>
 
-<ul style="list-style-type:disc">
+- __Pohl, A.__, Donnadieu, Y., Godderis, Y., Lanteaume, C., Hairabian, A., Frau, C., Michel, J., Laugié, M., Reijmer, J. J. G., Scotese, C. R. and Jean, B, 2020. Carbonate platform production during the Cretaceous. GSA Bulletin 132(11-12), 2606-2610, doi:10.1130/B35680.1. [[link](https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/132/11-12/2606/583643/Carbonate-platform-production-during-the?redirectedFrom=fulltext){:target="_blank"}]
 
-<li>__Pohl, A.__, Donnadieu, Y., Godderis, Y., Lanteaume, C., Hairabian, A., Frau, C., Michel, J., Laugié, M., Reijmer, J. J. G., Scotese, C. R. and Jean, B, 2020. Carbonate platform production during the Cretaceous. GSA Bulletin 132(11-12), 2606-2610, doi:10.1130/B35680.1. [[link](https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/132/11-12/2606/583643/Carbonate-platform-production-during-the?redirectedFrom=fulltext){:target="_blank"}]</li>
+- Laugié, M., Michel, J., __Pohl, A.__, Poli, E., Borgomano, J., 2019. Global distribution of modern shallow-water marine carbonate factories: a spatial model based on environmental parameters. Scientific Reports 9(1), 16432. doi:10.1038/s41598-019-52821-2. [[link](https://www.nature.com/articles/s41598-019-52821-2){:target="_blank"}]
 
-<li>Laugié, M., Michel, J., __Pohl, A.__, Poli, E., Borgomano, J., 2019. Global distribution of modern shallow-water marine carbonate factories: a spatial model based on environmental parameters. Scientific Reports 9(1), 16432. doi:10.1038/s41598-019-52821-2. [[link](https://www.nature.com/articles/s41598-019-52821-2){:target="_blank"}]</li>
+- Michel, J., Laugié, M., __Pohl, A.__, Lanteaume, C., Masse, J-.P., Frau, C., Donnadieu, Y., Borgomano, J., 2019. Marine carbonate factories: a global model of carbonate platform distribution. International journal of Earth Sciences 108(6), 1773-1792. doi:10.1007/s00531-019-01742-6. [[link](https://link.springer.com/article/10.1007/s00531-019-01742-6){:target="_blank"}]
 
-<li>Michel, J., Laugié, M., __Pohl, A.__, Lanteaume, C., Masse, J-.P., Frau, C., Donnadieu, Y., Borgomano, J., 2019. Marine carbonate factories: a global model of carbonate platform distribution. International journal of Earth Sciences 108(6), 1773-1792. doi:10.1007/s00531-019-01742-6. [[link](https://link.springer.com/article/10.1007/s00531-019-01742-6){:target="_blank"}]</li>
+- __Pohl, A.__, Laugié, M., Borgomano, J., Michel, J., Lanteaume, C., Scotese, C.R., Frau, C., Poli, E., Donnadieu, Y., 2019. Quantifying the paleogeographic driver of Cretaceous carbonate platform development using paleoecological niche modeling. Paleoceanography and Paleoclimatology 514, 222-232. doi:10.1016/j.palaeo.2018.10.017. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0031018218307260){:target="_blank"}]
 
-<li>__Pohl, A.__, Laugié, M., Borgomano, J., Michel, J., Lanteaume, C., Scotese, C.R., Frau, C., Poli, E., Donnadieu, Y., 2019. Quantifying the paleogeographic driver of Cretaceous carbonate platform development using paleoecological niche modeling. Paleoceanography and Paleoclimatology 514, 222-232. doi:10.1016/j.palaeo.2018.10.017. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0031018218307260){:target="_blank"}]</li>
-
-</ul>

@@ -22,15 +22,11 @@ The continental configuration significantly changed through geological times, wi
 
 <h2>Selected references</h2>
 
-<ul style="list-style-type:disc">
+- Wong Hearing, T.W., __Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5. [[link](https://www.nature.com/articles/s41467-021-24141-5){:target="_blank"}]
 
-<li>Wong Hearing, T.W., __Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5. [[link](https://www.nature.com/articles/s41467-021-24141-5){:target="_blank"}]
-- Associated data: [[https://zenodo.org/record/4506617#.YN3sxRMzaCc](https://zenodo.org/record/4506617#.YN3sxRMzaCc){:target="_blank"}]</li>
+- __Pohl, A.__, Laugié, M., Borgomano, J., Michel, J., Lanteaume, C., Scotese, C.R., Frau, C., Poli, E., Donnadieu, Y., 2019. Quantifying the paleogeographic driver of Cretaceous carbonate platform development using paleoecological niche modeling. Paleoceanography and Paleoclimatology 514, 222-232. doi:10.1016/j.palaeo.2018.10.017. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0031018218307260){:target="_blank"}]
 
-<li>__Pohl, A.__, Laugié, M., Borgomano, J., Michel, J., Lanteaume, C., Scotese, C.R., Frau, C., Poli, E., Donnadieu, Y., 2019. Quantifying the paleogeographic driver of Cretaceous carbonate platform development using paleoecological niche modeling. Paleoceanography and Paleoclimatology 514, 222-232. doi:10.1016/j.palaeo.2018.10.017. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0031018218307260){:target="_blank"}]</li>
+- <Ruvalcaba Baroni, I., __Pohl, A.__, van Helmond, N.A.G.M., Papadomanolaki, N.M., Coe, A.L., Cohen, A.S., van de Shootbrugge, B., Donnadieu, Y., Slomp, C.P., 2018. Ocean circulation in the Toarcian (Early Jurassic): a key control on deoxygenation and carbon burial on the European Shelf. Paleoceanography and Paleoclimatology 33(9), 994-1012. doi:10.1029/2018PA003394. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018PA003394){:target="_blank"}]
 
-<li><Ruvalcaba Baroni, I., __Pohl, A.__, van Helmond, N.A.G.M., Papadomanolaki, N.M., Coe, A.L., Cohen, A.S., van de Shootbrugge, B., Donnadieu, Y., Slomp, C.P., 2018. Ocean circulation in the Toarcian (Early Jurassic): a key control on deoxygenation and carbon burial on the European Shelf. Paleoceanography and Paleoclimatology 33(9), 994-1012. doi:10.1029/2018PA003394. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018PA003394){:target="_blank"}]/li>
+- __Pohl, A.__, Donnadieu, Y., Le Hir, G., Buoncristiani, J.F., Vennin, E., 2014. Effect of the Ordovician paleogeography on the (in)stability of the climate. Climate of the Past 10, 2053–2066. doi:10.5194/cp-10-2053-2014. [[link](https://cp.copernicus.org/articles/10/2053/2014/){:target="_blank"}]
 
-<li>__Pohl, A.__, Donnadieu, Y., Le Hir, G., Buoncristiani, J.F., Vennin, E., 2014. Effect of the Ordovician paleogeography on the (in)stability of the climate. Climate of the Past 10, 2053–2066. doi:10.5194/cp-10-2053-2014. [[link](https://cp.copernicus.org/articles/10/2053/2014/){:target="_blank"}]</li>
-
-</ul>
