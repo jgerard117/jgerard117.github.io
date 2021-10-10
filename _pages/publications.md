@@ -20,11 +20,11 @@ __[19]__ Wong Hearing, T.W., __Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, 
 
 __[18]__ Zacaï, A., Monnet, C.,  __Pohl, A.__, Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T., 2021: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709. [[link](https://advances.sciencemag.org/content/7/15/eabd6709){:target="_blank"}]
 
+__[17]__ Frau, C., Wimbledon, W.A.P., Ifrim, C., Bulot, L.G., __Pohl, A.__, 2021. Berriasian ammonites of supposed Tethyan origin from the type ‘Ryazanian’, Russia: a systematic re-interpretation. Paleoworld, v. 30(3), p. 515-537. doi: 10.1016/j.palwor.2020.07.004. [[link](https://www.sciencedirect.com/science/article/abs/pii/S1871174X20300585){:target="_blank"}]
+
 <p>&nbsp;</p>
 
 ##### `2020`
-
-__[17]__ Frau, C., Wimbledon, W.A.P., Ifrim, C., Bulot, L.G., __Pohl, A.__, 2020. Berriasian ammonites of supposed Tethyan origin from the type ‘Ryazanian’, Russia: a systematic re-interpretation. Paleoworld, in press. doi: 10.1016/j.palwor.2020.07.004. [[link](https://www.sciencedirect.com/science/article/abs/pii/S1871174X20300585){:target="_blank"}]
 
 __[16]__ __Pohl, A.__, Donnadieu, Y., Godderis, Y., Lanteaume, C., Hairabian, A., Frau, C., Michel, J., Laugié, M., Reijmer, J. J. G., Scotese, C. R. and Jean, B, 2020. Carbonate platform production during the Cretaceous. GSA Bulletin 132(11-12), 2606-2610, doi:10.1130/B35680.1. [[link](https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/132/11-12/2606/583643/Carbonate-platform-production-during-the?redirectedFrom=fulltext){:target="_blank"}]
 - Associated data: [[https://doi.pangaea.de/10.1594/PANGAEA.904255](https://doi.pangaea.de/10.1594/PANGAEA.904255){:target="_blank"}]
