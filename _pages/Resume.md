@@ -44,6 +44,8 @@ nav: true
 
 <h2>Review activity</h2>
 
+Journals
+
 <ul>
 <li>Paleoceanography</li>
 <li>Palaeogeography, Palaeoclimatology, Palaeoecology</li>
@@ -58,4 +60,10 @@ nav: true
 <li>Science Advances</li>
 <li>Biogeosciences</li>
 <li>PNAS</li>
+</ul>
+
+Projects
+
+<ul>
+<li>INSU</li>
 </ul>
