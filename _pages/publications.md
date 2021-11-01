@@ -6,17 +6,16 @@ description: Updated list of written publications
 nav: true
 ---
 
-<h2>International Publications</h2>
-
-<p>&nbsp;</p>
-
-##### `under evaluation with full-text available`
+<h2>Preprint (full text available)</h2>
 
 - Cermeno, P., Garcia-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and the rise of biodiversity hotspots. [[link](https://www.researchsquare.com/article/rs-1013308/v1){:target="_blank"}]
 
 - __Pohl, A.__, Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}]
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<h2>International Publications</h2>
 
 ##### `2021`
 
