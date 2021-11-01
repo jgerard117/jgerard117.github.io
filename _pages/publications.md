@@ -10,6 +10,12 @@ nav: true
 
 <p>&nbsp;</p>
 
+##### `under evaluation with full-text available`
+
+- Cermeno, P., Garcia-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and the rise of biodiversity hotspots. [[link](https://www.researchsquare.com/article/rs-1013308/v1){:target="_blank"}]
+
+- __Pohl, A.__, Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}]
+
 ##### `2021`
 
 __[20]__ Stockey, R.G., __Pohl, A.__, Ridgwell, A., Finnegan, S., Sperling, A., 2021, Decreasing Phanerozoic extinction intensity as a consequence of Earth surface oxygenation and metazoan ecophysiology, PNAS, v. 118(41), e2101900118, doi:10.1073/pnas.2101900118. [[link](https://www.pnas.org/content/118/41/e2101900118){:target="_blank"}]
