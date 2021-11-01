@@ -6,7 +6,7 @@ description: Updated list of written publications
 nav: true
 ---
 
-<h2>Preprint (full text available)</h2>
+<h2>Preprints (full text available)</h2>
 
 - Cermeno, P., Garcia-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and the rise of biodiversity hotspots. [[link](https://www.researchsquare.com/article/rs-1013308/v1){:target="_blank"}]
 
