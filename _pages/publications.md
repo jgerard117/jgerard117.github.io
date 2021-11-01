@@ -29,16 +29,12 @@ __[18]__ Zacaï, A., Monnet, C.,  __Pohl, A.__, Beaugrand, G., Mullins, G., Kroe
 
 __[17]__ Frau, C., Wimbledon, W.A.P., Ifrim, C., Bulot, L.G., __Pohl, A.__, 2021. Berriasian ammonites of supposed Tethyan origin from the type ‘Ryazanian’, Russia: a systematic re-interpretation. Paleoworld, v. 30(3), p. 515-537. doi: 10.1016/j.palwor.2020.07.004. [[link](https://www.sciencedirect.com/science/article/abs/pii/S1871174X20300585){:target="_blank"}]
 
-<p>&nbsp;</p>
-
 ##### `2020`
 
 __[16]__ __Pohl, A.__, Donnadieu, Y., Godderis, Y., Lanteaume, C., Hairabian, A., Frau, C., Michel, J., Laugié, M., Reijmer, J. J. G., Scotese, C. R. and Jean, B, 2020. Carbonate platform production during the Cretaceous. GSA Bulletin 132(11-12), 2606-2610, doi:10.1130/B35680.1. [[link](https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/132/11-12/2606/583643/Carbonate-platform-production-during-the?redirectedFrom=fulltext){:target="_blank"}]
 - Associated data: [[https://doi.pangaea.de/10.1594/PANGAEA.904255](https://doi.pangaea.de/10.1594/PANGAEA.904255){:target="_blank"}]
 
 __[15]__ Frau, C., Tendil, A.J.B., __Pohl, A.__, Lanteaume, C., 2020. Revising the timing and causes of the Urgonian rudistid-platform demise in the Mediterranean Tethys. Global and Planetary Change 187, 103124. doi: 10.1016/j.apcatb.2019.118224. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0921818120300138){:target="_blank"}]
-
-<p>&nbsp;</p>
 
 ##### `2019`
 
@@ -50,8 +46,6 @@ __[12]__ Michel, J., Laugié, M., __Pohl, A.__, Lanteaume, C., Masse, J-.P., Fra
 
 __[11]__ __Pohl, A.__, Laugié, M., Borgomano, J., Michel, J., Lanteaume, C., Scotese, C.R., Frau, C., Poli, E., Donnadieu, Y., 2019. Quantifying the paleogeographic driver of Cretaceous carbonate platform development using paleoecological niche modeling. Paleoceanography and Paleoclimatology 514, 222-232. doi:10.1016/j.palaeo.2018.10.017. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0031018218307260){:target="_blank"}]
 
-<p>&nbsp;</p>
-
 ##### `2018`
 
 __[10]__ Ruvalcaba Baroni, I., __Pohl, A.__, van Helmond, N.A.G.M., Papadomanolaki, N.M., Coe, A.L., Cohen, A.S., van de Shootbrugge, B., Donnadieu, Y., Slomp, C.P., 2018. Ocean circulation in the Toarcian (Early Jurassic): a key control on deoxygenation and carbon burial on the European Shelf. Paleoceanography and Paleoclimatology 33(9), 994-1012. doi:10.1029/2018PA003394. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018PA003394){:target="_blank"}]
@@ -60,15 +54,11 @@ __[9]__ __Pohl, A.__, Austermann, J., 2018. A sea-level fingerprint of the Late 
 
 __[8]__ Hearing, T. W., Harvey, T.H.P., Williams, M., Leng, M.J., Lamb, A.L., Wilby, P.R., Gabbott, S.R., __Pohl, A.__, Donnadieu, Y., 2018. An early Cambrian greenhouse climate. Science Advances 4(5), eaar5690. doi:10.1126/sciadv.aar5690. [[link](https://advances.sciencemag.org/content/4/5/eaar5690){:target="_blank"}]
 
-<p>&nbsp;</p>
-
 ##### `2017`
 
 __[7]__ __Pohl, A.__, Harper, D.A.T., Donnadieu, Y., Le Hir, G., Nardin, E., Servais, T., 2017. Possible patterns of marine primary productivity during the Great Ordovician Biodiversification Event. Lethaia 5(2), 187-197. doi:10.1111/let.12247. [[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/let.12247){:target="_blank"}]
 
 __[6]__ __Pohl, A.__, Donnadieu Y., Le Hir G., Ferreira D., 2017. The climatic significance of Late Ordovician–early Silurian black shales. Paleoceanography 32(4), 397-423. doi:10.1002/2016PA003064. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016PA003064){:target="_blank"}]
-
-<p>&nbsp;</p>
 
 ##### `2016`
 
@@ -77,8 +67,6 @@ __[5]__ __Pohl, A.__, Donnadieu, Y., Le Hir, G., Ladant, J.B., Dumas, C., Alvare
 __[4]__ Porada, P., Lenton, T.M., __Pohl, A.__, Weber, B., Mander, L., Donnadieu, Y., Beer, C., Pöschl, U., Kleidon, A., 2016. High potential for weathering and climate effects of non-vascular vegetation in the Late Ordovician. Nature Communications 7, 12113. doi:10.1038/ncomms12113. [[link](https://www.nature.com/articles/ncomms12113){:target="_blank"}]
 
 __[3]__ __Pohl, A.__, Nardin, E., Vandenbroucke, T., Donnadieu, Y., 2016. High dependence of Ordovician ocean surface circulation on atmospheric CO2 levels. Palaeogeography, Palaeoclimatology, Palaeoecology 458, 39–51. doi:10.1016/j.palaeo.2015.09.036. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0031018215005465){:target="_blank"}]
-
-<p>&nbsp;</p>
 
 ##### `Before 2016`
 
