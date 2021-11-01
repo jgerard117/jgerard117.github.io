@@ -10,9 +10,9 @@ nav: true
 
 - Cermeno, P., Garcia-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and the rise of biodiversity hotspots. [[link](https://www.researchsquare.com/article/rs-1013308/v1){:target="_blank"}]
 
-- __Pohl, A.__, Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}]
+- \*__Pohl, A.__, \*Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}] \*
+authors contributed equally
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h2>International Publications</h2>
@@ -22,7 +22,7 @@ nav: true
 __[20]__ Stockey, R.G., __Pohl, A.__, Ridgwell, A., Finnegan, S., Sperling, A., 2021, Decreasing Phanerozoic extinction intensity as a consequence of Earth surface oxygenation and metazoan ecophysiology, PNAS, v. 118(41), e2101900118, doi:10.1073/pnas.2101900118. [[link](https://www.pnas.org/content/118/41/e2101900118){:target="_blank"}]
 - Associated data: [[https://zenodo.org/record/5519730#.YVvtUBBBzu4](https://zenodo.org/record/5519730#.YVvtUBBBzu4){:target="_blank"}]
 
-__[19]__ Wong Hearing, T.W., __Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5. [[link](https://www.nature.com/articles/s41467-021-24141-5){:target="_blank"}]
+__[19]__ \*Wong Hearing, T.W., \*__Pohl, A.__, \*Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5. [[link](https://www.nature.com/articles/s41467-021-24141-5){:target="_blank"}] \* authors contributed equally
 - Associated data: [[https://zenodo.org/record/4506617#.YN3sxRMzaCc](https://zenodo.org/record/4506617#.YN3sxRMzaCc){:target="_blank"}]
 
 __[18]__ Zacaï, A., Monnet, C.,  __Pohl, A.__, Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T., 2021: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709. [[link](https://advances.sciencemag.org/content/7/15/eabd6709){:target="_blank"}]
@@ -87,13 +87,11 @@ __[2]__ __Pohl, A.__, Donnadieu, Y., Le Hir, G., Buoncristiani, J.F., Vennin, E.
 __[1]__ Godon, C., Mugnier, J.-L., Fallourd, R., Paquette, J.-L., __Pohl, A.__, Buoncristiani, J.-F., 2013. The Bossons glacier protects Europe’s summit from erosion. Earth and Planetary Science Letters 375, 135–147. doi:10.1016/j.epsl.2013.05.018. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0012821X13002562){:target="_blank"}]
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <h2>Book Chapters</h2>
 
 __[1]__ Goddéris Y., Donnadieu Y., __Pohl A.__, 2021. The Phanerozoic Climate. In: Ramstein G., Landais A., Bouttes N., Sepulchre P., Govin A. (eds) Paleoclimatology. Frontiers in Earth Sciences. Springer, pp. 359–383. doi: 10.1007/978-3-030-24982-3_27. [[link](https://link.springer.com/book/10.1007%2F978-3-030-24982-3){:target="_blank"}]
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h2>Popularization</h2>
