@@ -19,6 +19,9 @@ authors contributed equally
 
 ##### `2021`
 
+__[21]__ __Pohl, A.__, Lu, Z., Lu, W., Stockey, R.G., Elrick, M., Li, M., Desrochers, A., Shen, Y., He, R., Finnegan, S., Ridgwell, A., 2021. Vertical decoupling in Late Ordovician anoxia due to reorganization of ocean circulation. Nature Geoscience 14(11), doi:10.1038/s41561-021-00843-9. [[link](https://www.nature.com/articles/s41561-021-00843-9){:target="_blank"}]
+- Associated data: [[https://zenodo.org/record/5136966#.YYDpJdbMKCf](https://zenodo.org/record/5136966#.YYDpJdbMKCf){:target="_blank"}]
+
 __[20]__ Stockey, R.G., __Pohl, A.__, Ridgwell, A., Finnegan, S., Sperling, A., 2021, Decreasing Phanerozoic extinction intensity as a consequence of Earth surface oxygenation and metazoan ecophysiology, PNAS, v. 118(41), e2101900118, doi:10.1073/pnas.2101900118. [[link](https://www.pnas.org/content/118/41/e2101900118){:target="_blank"}]
 - Associated data: [[https://zenodo.org/record/5519730#.YVvtUBBBzu4](https://zenodo.org/record/5519730#.YVvtUBBBzu4){:target="_blank"}]
 
