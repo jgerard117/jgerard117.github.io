@@ -60,6 +60,7 @@ Journals
 <li>Science Advances</li>
 <li>Biogeosciences</li>
 <li>PNAS</li>
+<li>Geology</li>
 </ul>
 
 Projects
