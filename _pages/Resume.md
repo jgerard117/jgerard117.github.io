@@ -59,6 +59,7 @@ Journals
 <li>GSA Bulletin</li>
 <li>Science Advances</li>
 <li>Biogeosciences</li>
+<li>Geosciences</li>
 <li>PNAS</li>
 <li>Geology</li>
 </ul>
