@@ -42,6 +42,12 @@ nav: true
 
 <p>&nbsp;</p>
 
+<h2>Other supervision responsabilities</h2>
+
+- `2021–2022`: Member of the evaluation committee, Master in Earth Sciences,  Université Libre de Bruxelles (Brussels, Belgium).
+
+<p>&nbsp;</p>
+
 <h2>Review activity</h2>
 
 Journals
