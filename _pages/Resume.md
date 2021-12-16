@@ -48,6 +48,12 @@ nav: true
 
 <p>&nbsp;</p>
 
+<h2>Other administrative responsabilities</h2>
+
+- Member of the communication staff, Biogéosciences 
+
+<p>&nbsp;</p>
+
 <h2>Review activity</h2>
 
 Journals
