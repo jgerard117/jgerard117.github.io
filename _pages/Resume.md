@@ -50,7 +50,7 @@ nav: true
 
 <h2>Other administrative responsabilities</h2>
 
-- Member of the communication staff, Biogéosciences 
+- `2021–prst` Member of the communication staff, Biogéosciences 
 
 <p>&nbsp;</p>
 
