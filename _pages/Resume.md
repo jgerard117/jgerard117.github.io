@@ -54,6 +54,13 @@ nav: true
 
 <p>&nbsp;</p>
 
+<h2>Membership of scientific societies</h2>
+
+- GDR Climat-Environnement-Vie, les apportes du préquaternaire
+- GDR Océan et Mers (OMER)
+
+<p>&nbsp;</p>
+
 <h2>Review activity</h2>
 
 Journals
