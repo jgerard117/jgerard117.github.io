@@ -72,7 +72,6 @@ Journals
 <li>The Cryosphere</li>
 <li>Climate of the Past</li>
 <li>Lethaia</li>
-<li>Geology</li>
 <li>Earth Science Reviews</li>
 <li>Geological Magazine</li>
 <li>GSA Bulletin</li>
