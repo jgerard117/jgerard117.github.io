@@ -22,6 +22,10 @@ __[1]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ladant J.B., Dumas C., Vandenbrouc
 
 ## Talks in international meetings
 
+__[28]__ __Pohl, A.__, Lu Z., Lu W., Stockey R.G., Elrick M., Li M., Desrochers A., Shen Y., He R., Finnegan S., Ridgwell A. Une réorganisation de la circulation océanique à l’origine de l’anoxie au cours de la glaciation de l’Ordovicien terminal. RST 2021, Lyon (France).
+
+__[27]__ Stockey, R.G., __Pohl, A.__, Ridgwell, A., Finnegan, S., Sperling, E.A. Decreasing Phanerozoic extinction intensity as a consequence of Earth surface oxygenation and metazoan ecophysiology. PalAss 2020, online.
+
 __[26]__ Lettéron, A., Sayago, J., Michel, J., Lanteaume, C., __Pohl, A.__, Laugié, M., Donnadieu, Y., Kenter, J., Borgomano, J. Marine Carbonate Factories and Stratigraphic Response Through Time and Space: Methodology, Examples and Implications. AGU 2020, online.
 
 __[25]__ Stockey, R.G., __Pohl, A.__, Ridgwell, A., Finnegan, S., Sperling, E.A. Decreasing Phanerozoic extinction intensity is a predictable consequence of Earth surface oxygenation and metazoan ecophysiology. GSA 2020, online.
@@ -77,6 +81,8 @@ __[1]__ Mugnier J.-L., Godon C., Buoncristiani J.-F., Guillon H., Trouvé., __Po
 <p>&nbsp;</p>
 
 ## Posters in international meetings
+
+__[8]__ Wong Hearing T., __Pohl, A.__, Williams M., Harvey T., Donnadieu Y., Vandenbroucke T.R.A. Climatic constraints on Cambrian palaeogeography. Royal Society 2019, London (UK).
 
 __[7]__ Frau, C., Bulot, L., __Pohl, A.__, Ifrim, C., Wimbledon, W.A. Berriasian ammonites from the type “Ryazanian” (Central Russia) of supposed Tethyan origin: a systematic re-interpretation. JK2018: International Meeting AROUND the Jurassic-Cretaceous Boundary, Geneva (Switzerland).
 
