@@ -8,6 +8,8 @@ nav: true
 
 <h2>Preprints (full text available)</h2>
 
+Keane, A., __Pohl, A.__, Dijkstra, H., Ridgwell, A. A simple mechanism for stable oscillations in an intermediate complexity Earth System Model [[link](https://arxiv.org/abs/2201.07883){:target="_blank"}]
+
 - Cermeno, P., Garcia-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and the rise of biodiversity hotspots. [[link](https://www.researchsquare.com/article/rs-1013308/v1){:target="_blank"}]
 
 - \*__Pohl, A.__, \*Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}] \*
