@@ -6,6 +6,9 @@ description: Updated list of oral presentations
 nav: true
 ---
 
+* upcoming
+** to be confirmed
+
 ## Keynotes
 
 __[5]__ __Pohl A.__, Nardin, E., Vandenbroucke T.R.A., Donnadieu Y. The Ordovician ocean circulation, a modern synthesis based on data and models. IGCP653 absolutely final meeting 2021, online.
@@ -81,6 +84,8 @@ __[1]__ Mugnier J.-L., Godon C., Buoncristiani J.-F., Guillon H., Trouvé., __Po
 <p>&nbsp;</p>
 
 ## Posters in international meetings
+
+__[9**]__ Ridgwell A., __Pohl, A.__, Keane A., Valdes P. Is past ocean circulation predictable? (no). ICP14, Bergen (Norway).
 
 __[8]__ Wong Hearing T., __Pohl, A.__, Williams M., Harvey T., Donnadieu Y., Vandenbroucke T.R.A. Climatic constraints on Cambrian palaeogeography. Royal Society 2019, London (UK).
 
