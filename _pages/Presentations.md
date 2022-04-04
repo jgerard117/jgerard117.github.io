@@ -6,8 +6,8 @@ description: Updated list of oral presentations
 nav: true
 ---
 
-* upcoming
-** to be confirmed
+(*) upcoming
+(**) to be confirmed
 
 ## Keynotes
 
