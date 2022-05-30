@@ -19,6 +19,10 @@ authors contributed equally
 
 <h2>International Publications</h2>
 
+##### `2022`
+
+__[22]__ Maffre, P., Godderis, Y., __Pohl, A.__, Donnadieu, Y., Carretier, S., Le Hir, G., 2022. The complex response of continental silicate rock weathering to the colonization of the continents by vascular plants in the Devonian. American Journal of Science 322(3), 461-492, doi:10.2475/03.2022.02. [[link](https://www.ajsonline.org/content/322/3/461){:target="_blank"}]
+
 ##### `2021`
 
 __[21]__ __Pohl, A.__, Lu, Z., Lu, W., Stockey, R.G., Elrick, M., Li, M., Desrochers, A., Shen, Y., He, R., Finnegan, S., Ridgwell, A., 2021. Vertical decoupling in Late Ordovician anoxia due to reorganization of ocean circulation. Nature Geoscience 14(11), doi:10.1038/s41561-021-00843-9. [[link](https://www.nature.com/articles/s41561-021-00843-9){:target="_blank"}]
