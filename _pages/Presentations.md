@@ -25,6 +25,8 @@ __[1]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ladant J.B., Dumas C., Vandenbrouc
 
 ## Talks in international meetings
 
+__[29]__ Wong Hearing, T.W., \*__Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A. Climate data and model constraints on Cambrian palaeogeography. 21th International Sedimentological Congress 2022 (online). \* Presenter
+
 __[28]__ __Pohl, A.__, Lu Z., Lu W., Stockey R.G., Elrick M., Li M., Desrochers A., Shen Y., He R., Finnegan S., Ridgwell A. Une réorganisation de la circulation océanique à l’origine de l’anoxie au cours de la glaciation de l’Ordovicien terminal. RST 2021, Lyon (France).
 
 __[27]__ Stockey, R.G., __Pohl, A.__, Ridgwell, A., Finnegan, S., Sperling, E.A. Decreasing Phanerozoic extinction intensity as a consequence of Earth surface oxygenation and metazoan ecophysiology. PalAss 2020 (online).
