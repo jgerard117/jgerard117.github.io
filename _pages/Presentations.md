@@ -25,7 +25,7 @@ __[1]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ladant J.B., Dumas C., Vandenbrouc
 
 ## Talks in international meetings
 
-__[29]__ Wong Hearing, T.W., \*__Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A. Climate data and model constraints on Cambrian palaeogeography. 21th International Sedimentological Congress 2022 (online). \* Presenter
+__[29*]__ Wong Hearing, T.W., \*__Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A. Climate data and model constraints on Cambrian palaeogeography. 21th International Sedimentological Congress 2022 (online). \* Presenter
 
 __[28]__ __Pohl, A.__, Lu Z., Lu W., Stockey R.G., Elrick M., Li M., Desrochers A., Shen Y., He R., Finnegan S., Ridgwell A. Une réorganisation de la circulation océanique à l’origine de l’anoxie au cours de la glaciation de l’Ordovicien terminal. RST 2021, Lyon (France).
 
@@ -87,7 +87,7 @@ __[1]__ Mugnier J.-L., Godon C., Buoncristiani J.-F., Guillon H., Trouvé., __Po
 
 ## Posters in international meetings
 
-__[9**]__ Ridgwell A., __Pohl, A.__, Keane A., Valdes P. Is past ocean circulation predictable? (no). ICP14, Bergen (Norway).
+__[9]__ Ridgwell A., __Pohl, A.__, Keane A., Valdes P. Is past ocean circulation predictable? (no). ICP14 (2022), Bergen (Norway).
 
 __[8]__ Wong Hearing T., __Pohl, A.__, Williams M., Harvey T., Donnadieu Y., Vandenbroucke T.R.A. Climatic constraints on Cambrian palaeogeography. Royal Society 2019, London (UK).
 
