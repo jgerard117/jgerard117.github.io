@@ -93,6 +93,7 @@ __[1]__ Godon, C., Mugnier, J.-L., Fallourd, R., Paquette, J.-L., __Pohl, A.__, 
 <h2>Data papers</h2>
 
 __[1]__ __Pohl, A.__, Wong Hearing, T., Franc, A., Sepulchre, P., Scotese, C.R. Dataset of Phanerozoic continental climate and Köppen–Geiger climate classes. Data in Brief (in press). doi:10.1016/j.dib.2022.108424. [[link](https://www.sciencedirect.com/science/article/pii/S2352340922006217?via%3Dihub){:target="_blank"}]
+- Associated data: [[https://zenodo.org/record/6620748#.Yrr6--xBwbk)]{:target="_blank"}]
 
 <p>&nbsp;</p>
 
