@@ -10,10 +10,15 @@ nav: true
 
 - Keane, A., __Pohl, A.__, Dijkstra, H., Ridgwell, A. A simple mechanism for stable oscillations in an intermediate complexity Earth System Model. [[link](https://arxiv.org/abs/2201.07883){:target="_blank"}]
 
-- Cermeno, P., Garcia-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and the rise of biodiversity hotspots. [[link](https://www.researchsquare.com/article/rs-1013308/v1){:target="_blank"}]
+<p>&nbsp;</p>
 
-- \*__Pohl, A.__, \*Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}] \*
-authors contributed equally
+<h2>In press</h2>
+
+- Cermeno, P., Garcia-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and the rise of biodiversity hotspots. Accepted for publication in Nature. [[link](https://www.researchsquare.com/article/rs-1013308/v1){:target="_blank"}]
+
+- \*__Pohl, A.__, \*Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. Accepted for publication in Nature. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}] \* authors contributed equally
+
+- __Pohl, A.__, Nardin, E., Vandenbroucke, T.R.A., Donnadieu, Y. The Ordovician ocean circulation: a modern synthesis based on data and models. Accepted for publication in Geological Society of London Special Publications.
 
 <p>&nbsp;</p>
 
@@ -82,6 +87,12 @@ __[3]__ __Pohl, A.__, Nardin, E., Vandenbroucke, T., Donnadieu, Y., 2016. High d
 __[2]__ __Pohl, A.__, Donnadieu, Y., Le Hir, G., Buoncristiani, J.F., Vennin, E., 2014. Effect of the Ordovician paleogeography on the (in)stability of the climate. Climate of the Past 10, 2053–2066. doi:10.5194/cp-10-2053-2014. [[link](https://cp.copernicus.org/articles/10/2053/2014/){:target="_blank"}]
 
 __[1]__ Godon, C., Mugnier, J.-L., Fallourd, R., Paquette, J.-L., __Pohl, A.__, Buoncristiani, J.-F., 2013. The Bossons glacier protects Europe’s summit from erosion. Earth and Planetary Science Letters 375, 135–147. doi:10.1016/j.epsl.2013.05.018. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0012821X13002562){:target="_blank"}]
+
+<p>&nbsp;</p>
+
+<h2>Data papers</h2>
+
+__[1]__ __Pohl, A.__, Wong Hearing, T., Franc, A., Sepulchre, P., Scotese, C.R. Dataset of Phanerozoic continental climate and Köppen–Geiger climate classes. Data in Brief (in press). doi:10.1016/j.dib.2022.108424. [[link](https://www.sciencedirect.com/science/article/pii/S2352340922006217?via%3Dihub){:target="_blank"}]
 
 <p>&nbsp;</p>
 
