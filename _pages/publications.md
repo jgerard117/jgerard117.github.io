@@ -14,8 +14,6 @@ nav: true
 
 <h2>In press</h2>
 
-- Cermeno, P., Garcia-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and the rise of biodiversity hotspots. Accepted for publication in Nature. [[link](https://www.researchsquare.com/article/rs-1013308/v1){:target="_blank"}]
-
 - \*__Pohl, A.__, \*Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. Accepted for publication in Nature. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}] \* authors contributed equally
 
 - __Pohl, A.__, Nardin, E., Vandenbroucke, T.R.A., Donnadieu, Y. The Ordovician ocean circulation: a modern synthesis based on data and models. Accepted for publication in Geological Society of London Special Publications.
@@ -27,6 +25,8 @@ nav: true
 <h2>International Publications</h2>
 
 ##### `2022`
+
+__[23]__ Cermeño, P., Garcìa-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and biodiversity hotspots. Nature. [[link](https://www.nature.com/articles/s41586-022-04932-6#article-info){:target="_blank"}]
 
 __[22]__ Maffre, P., Godderis, Y., __Pohl, A.__, Donnadieu, Y., Carretier, S., Le Hir, G., 2022. The complex response of continental silicate rock weathering to the colonization of the continents by vascular plants in the Devonian. American Journal of Science 322(3), 461-492, doi:10.2475/03.2022.02. [[link](https://www.ajsonline.org/content/322/3/461){:target="_blank"}]
 
