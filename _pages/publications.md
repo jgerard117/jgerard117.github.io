@@ -26,7 +26,7 @@ nav: true
 
 ##### `2022`
 
-__[23]__ Cermeño, P., Garcìa-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S. Post-extinction recovery of the Phanerozoic oceans and biodiversity hotspots. Nature. [[link](https://www.nature.com/articles/s41586-022-04932-6#article-info){:target="_blank"}]
+__[23]__ Cermeño, P., Garcìa-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S., 2022. Post-extinction recovery of the Phanerozoic oceans and biodiversity hotspots. Nature, doi: 10.1038/s41586-022-04932-6. [[link](https://www.nature.com/articles/s41586-022-04932-6){:target="_blank"}]
 
 __[22]__ Maffre, P., Godderis, Y., __Pohl, A.__, Donnadieu, Y., Carretier, S., Le Hir, G., 2022. The complex response of continental silicate rock weathering to the colonization of the continents by vascular plants in the Devonian. American Journal of Science 322(3), 461-492, doi:10.2475/03.2022.02. [[link](https://www.ajsonline.org/content/322/3/461){:target="_blank"}]
 
