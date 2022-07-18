@@ -25,7 +25,7 @@ __[1]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ladant J.B., Dumas C., Vandenbrouc
 
 ## Talks in international meetings
 
-[30*] Keane, A., __Pohl, A.__, Dijkstra, H.A., Ridgwell, A. Stable delay-induced oscillations in large-scale ocean circulation. Joint 8th IFAC Symposium on System Structure and Control, 17th IFAC Workshop on Time Delay Systems, 5th IFAC Workshop on Linear Parameter Varying Systems, Montreal, Canada, 2022.
+__[30*]__ Keane, A., __Pohl, A.__, Dijkstra, H.A., Ridgwell, A. Stable delay-induced oscillations in large-scale ocean circulation. Joint 8th IFAC Symposium on System Structure and Control, 17th IFAC Workshop on Time Delay Systems, 5th IFAC Workshop on Linear Parameter Varying Systems, Montreal, Canada, 2022.
 
 __[29*]__ Wong Hearing, T.W., \*__Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A. Climate data and model constraints on Cambrian palaeogeography. 21th International Sedimentological Congress 2022 (online). \* Presenter
 
