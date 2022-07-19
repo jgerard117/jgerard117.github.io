@@ -22,6 +22,8 @@ I am presently focusing on the co-evolution of marine Life and the physical envi
 
 <h2>Selected references</h2>
 
+- Cermeño, P., Garcìa-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S., 2022. Post-extinction recovery of the Phanerozoic oceans and biodiversity hotspots. Nature, doi: 10.1038/s41586-022-04932-6. [[link](https://www.nature.com/articles/s41586-022-04932-6){:target="_blank"}]
+
 - Stockey, R.G., __Pohl, A.__, Ridgwell, A., Finnegan, S., Sperling, A., 2021, Decreasing Phanerozoic extinction intensity as a consequence of Earth surface oxygenation and metazoan ecophysiology, PNAS, v. 118(41), e2101900118, doi:10.1073/pnas.2101900118. [[link](https://www.pnas.org/content/118/41/e2101900118){:target="_blank"}]
 
 - Zacaï, A., Monnet, C.,  __Pohl, A.__, Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T., 2021: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709. [[link](https://advances.sciencemag.org/content/7/15/eabd6709){:target="_blank"}]
