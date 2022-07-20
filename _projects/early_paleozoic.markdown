@@ -22,6 +22,8 @@ Earth's environmental conditions during the Early Phanerozoic (Cambrian and Ordo
 
 <h2>Selected references</h2>
 
+- Marcilly, C., Maffre, P., Le Hir G., __Pohl, A.__, Fluteau, F., Goddéris, Y., Donnadieu, Y., Heimdal, T.H., Torsvik, T.H., 2022. Understanding the early Paleozoic carbon cycle balance and climate change from modelling. Earth and Planetary Science Letters 594, 117717. doi:10.1016/j.epsl.2022.117717. [[link](https://www.sciencedirect.com/science/article/pii/S0012821X22003533){:target="_blank"}]
+
 - Wong Hearing, T.W., __Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5. [[link](https://www.nature.com/articles/s41467-021-24141-5){:target="_blank"}]
 
 - Hearing, T. W., Harvey, T.H.P., Williams, M., Leng, M.J., Lamb, A.L., Wilby, P.R., Gabbott, S.R., __Pohl, A.__, Donnadieu, Y., 2018. An early Cambrian greenhouse climate. Science Advances 4(5), eaar5690. doi:10.1126/sciadv.aar5690. [[link](https://advances.sciencemag.org/content/4/5/eaar5690){:target="_blank"}]

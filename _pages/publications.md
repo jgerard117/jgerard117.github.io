@@ -18,13 +18,13 @@ nav: true
 
 - __Pohl, A.__, Nardin, E., Vandenbroucke, T.R.A., Donnadieu, Y. The Ordovician ocean circulation: a modern synthesis based on data and models. Accepted for publication in Geological Society of London Special Publications.
 
-- Marcilly, C., Maffre, P., Le Hir G., __Pohl, A.__, Fluteau, F., Goddéris, Y., Donnadieu, Y., Heimdal, T.H., Torsvik, T.H. Understanding the early Paleozoic carbon cycle balance and climate change from modelling. Accepted for publication in EPSL.
-
 <p>&nbsp;</p>
 
 <h2>International Publications</h2>
 
 ##### `2022`
+
+__[24]__ Marcilly, C., Maffre, P., Le Hir G., __Pohl, A.__, Fluteau, F., Goddéris, Y., Donnadieu, Y., Heimdal, T.H., Torsvik, T.H., 2022. Understanding the early Paleozoic carbon cycle balance and climate change from modelling. Earth and Planetary Science Letters 594, 117717. doi:10.1016/j.epsl.2022.117717. [[link](https://www.sciencedirect.com/science/article/pii/S0012821X22003533){:target="_blank"}]
 
 __[23]__ Cermeño, P., Garcìa-Comas, C., __Pohl, A.__, Williams, S., Benton, M., Le Gland, G., Muller, R.D., Ridgwell, A., Vallina, S., 2022. Post-extinction recovery of the Phanerozoic oceans and biodiversity hotspots. Nature, doi: 10.1038/s41586-022-04932-6. [[link](https://www.nature.com/articles/s41586-022-04932-6){:target="_blank"}]
 
