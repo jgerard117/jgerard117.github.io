@@ -72,15 +72,13 @@ __[7]__ __Pohl, A.__, Harper, D.A.T., Donnadieu, Y., Le Hir, G., Nardin, E., Ser
 
 __[6]__ __Pohl, A.__, Donnadieu Y., Le Hir G., Ferreira D., 2017. The climatic significance of Late Ordovician–early Silurian black shales. Paleoceanography 32(4), 397-423. doi:10.1002/2016PA003064. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016PA003064){:target="_blank"}]
 
-##### `2016`
+##### `2016 and before`
 
 __[5]__ __Pohl, A.__, Donnadieu, Y., Le Hir, G., Ladant, J.B., Dumas, C., Alvarez-Solas, J., Vandenbroucke, T.R.A., 2016. Glacial onset predated Late Ordovician climate cooling. Paleoceanography 31, 800–821. doi:10.1002/(ISSN)1944-9186. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016PA002928){:target="_blank"}]
 
 __[4]__ Porada, P., Lenton, T.M., __Pohl, A.__, Weber, B., Mander, L., Donnadieu, Y., Beer, C., Pöschl, U., Kleidon, A., 2016. High potential for weathering and climate effects of non-vascular vegetation in the Late Ordovician. Nature Communications 7, 12113. doi:10.1038/ncomms12113. [[link](https://www.nature.com/articles/ncomms12113){:target="_blank"}]
 
 __[3]__ __Pohl, A.__, Nardin, E., Vandenbroucke, T., Donnadieu, Y., 2016. High dependence of Ordovician ocean surface circulation on atmospheric CO2 levels. Palaeogeography, Palaeoclimatology, Palaeoecology 458, 39–51. doi:10.1016/j.palaeo.2015.09.036. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0031018215005465){:target="_blank"}]
-
-##### `Before 2016`
 
 __[2]__ __Pohl, A.__, Donnadieu, Y., Le Hir, G., Buoncristiani, J.F., Vennin, E., 2014. Effect of the Ordovician paleogeography on the (in)stability of the climate. Climate of the Past 10, 2053–2066. doi:10.5194/cp-10-2053-2014. [[link](https://cp.copernicus.org/articles/10/2053/2014/){:target="_blank"}]
 
