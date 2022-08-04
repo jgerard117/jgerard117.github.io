@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: CNRS Researcher
+description: CNRS Researcher @ UMR 6282 Biogéosciences (Dijon, France)
 
 profile:
   align: right
