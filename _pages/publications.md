@@ -14,8 +14,6 @@ nav: true
 
 <h2>In press</h2>
 
-- \*__Pohl, A.__, \*Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C. Plate motion drives variability in ocean oxygenation through the Phanerozoic. Accepted for publication in Nature. [[link](https://www.researchsquare.com/article/rs-915282/v1){:target="_blank"}] \* authors contributed equally
-
 - __Pohl, A.__, Nardin, E., Vandenbroucke, T.R.A., Donnadieu, Y. The Ordovician ocean circulation: a modern synthesis based on data and models. Accepted for publication in Geological Society of London Special Publications.
 
 <p>&nbsp;</p>
@@ -23,6 +21,8 @@ nav: true
 <h2>International Publications</h2>
 
 ##### `2022`
+
+__[25]__ \*__Pohl, A.__, \*Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C., 2022. Continental configuration controls ocean oxygenation during the Phanerozoic. Nature 608 [[link](https://www.nature.com/articles/s41586-022-05018-z){:target="_blank"}] \* authors contributed equally
 
 __[24]__ Marcilly, C., Maffre, P., Le Hir G., __Pohl, A.__, Fluteau, F., Goddéris, Y., Donnadieu, Y., Heimdal, T.H., Torsvik, T.H., 2022. Understanding the early Paleozoic carbon cycle balance and climate change from modelling. Earth and Planetary Science Letters 594, 117717. doi:10.1016/j.epsl.2022.117717. [[link](https://www.sciencedirect.com/science/article/pii/S0012821X22003533){:target="_blank"}]
 
