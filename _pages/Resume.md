@@ -79,6 +79,7 @@ Journals
 <li>Geosciences</li>
 <li>PNAS</li>
 <li>Geology</li>
+<li>Geological Society of London Special Publications</li>
 </ul>
 
 Projects
