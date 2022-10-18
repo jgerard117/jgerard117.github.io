@@ -6,21 +6,11 @@ description: Updated list of written publications
 nav: true
 ---
 
-<h2>Preprints (full text available)</h2>
-
-- Keane, A., __Pohl, A.__, Dijkstra, H., Ridgwell, A. A simple mechanism for stable oscillations in an intermediate complexity Earth System Model. [[link](https://arxiv.org/abs/2201.07883){:target="_blank"}]
-
-<p>&nbsp;</p>
-
-<h2>In press</h2>
-
-- __Pohl, A.__, Nardin, E., Vandenbroucke, T.R.A., Donnadieu, Y. The Ordovician ocean circulation: a modern synthesis based on data and models. Accepted for publication in Geological Society of London Special Publications.
-
-<p>&nbsp;</p>
-
 <h2>International Publications</h2>
 
 ##### `2022`
+
+__[26]__ __Pohl, A.__, Nardin, E., Vandenbroucke, T.R.A., Donnadieu, Y., 2022. The Ordovician ocean circulation: a modern synthesis based on data and models. Geological Soeicty Special Publication 532. doi:10.1144/SP532-2022-1. [[link](https://www.lyellcollection.org/doi/10.1144/SP532-2022-1).
 
 __[25]__ \*__Pohl, A.__, \*Ridgwell, A., Stockey, R.G., Thomazo, C., Keane, A., Vennin, E., Scotese, C., 2022. Continental configuration controls ocean oxygenation during the Phanerozoic. Nature 608(7923), 523-527. doi:10.1038/s41586-022-05018-z. [[link](https://www.nature.com/articles/s41586-022-05018-z){:target="_blank"}] \* authors contributed equally
 
