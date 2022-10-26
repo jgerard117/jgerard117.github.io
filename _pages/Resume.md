@@ -80,6 +80,7 @@ Journals
 <li>PNAS</li>
 <li>Geology</li>
 <li>Geological Society of London Special Publications</li>
+<li>Journal of Asian Earth Sciences</li>
 </ul>
 
 Projects
