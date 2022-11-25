@@ -17,6 +17,8 @@ __[2]__ **Mills B.J.W., Gurung K., Sanchez-Baracaldo P., __Pohl A.__, Henehan M.
 
 __[1]__ __Pohl A.__, Le Hir G., Sepulchre, P. T10: Interactions between climate, environment and biodiversity in the past, present and future: inputs from data and models. Climate and Impacts 2022, Paris, France.
 
+<p>&nbsp;</p>
+
 ## Keynotes
 
 __[5]__ __Pohl A.__, Nardin, E., Vandenbroucke T.R.A., Donnadieu Y. The Ordovician ocean circulation, a modern synthesis based on data and models. IGCP653 absolutely final meeting 2021 (online).
