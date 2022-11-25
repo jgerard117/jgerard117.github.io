@@ -9,6 +9,14 @@ nav: true
 (*) upcoming
 (**) to be confirmed
 
+## Sessions
+
+__[3]__ **Zahirovic S., __Pohl A.__, Sarr, A.-C., Arnould, M., Leonard, J. Data and models constraining Earth's deep-time paleogeography. EGU 2023, Vienna, Austria. [[link](https://meetingorganizer.copernicus.org/EGU23/sessionmodification/46203){:target="_blank"}] 
+
+__[2]__ **Mills, B.J.W., Gurung, K., Sanchez-Baracaldo, P., __Pohl, A.__, Henehan, M. BG5.4 Co-evolution of life and the Earth over deep time. EGU 2023, Vienna, Austria. [[link](https://meetingorganizer.copernicus.org/EGU23/session/44973){:target="_blank"}]
+
+__[1]__ __Pohl A.__, Le Hir G., Sepulchre, P. T10: Interactions between climate, environment and biodiversity in the past, present and future: inputs from data and models. Climate and Impacts 2022, Paris, France.
+
 ## Keynotes
 
 __[5]__ __Pohl A.__, Nardin, E., Vandenbroucke T.R.A., Donnadieu Y. The Ordovician ocean circulation, a modern synthesis based on data and models. IGCP653 absolutely final meeting 2021 (online).
@@ -25,11 +33,11 @@ __[1]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ladant J.B., Dumas C., Vandenbrouc
 
 ## Talks in international meetings
 
-__[31*]__ Charton, R., __Pohl, A.__, Bruna, P.-O., Rongier, G., Maffre, P. Erosional exhumation hotspot maps, feasibility study for the Phanerozoic. Nederlands Aardwetenschappelijk Congres (NAC), Utrecht, The Netherlands, 2022.
+__[31]__ Eliahou Ontiveros, D., Beaugrand, G., Lefebvre, B., Markussen Marcilly, C., Servais, T., __Pohl, A.__ Cooling Oceans Did Trigger Ordovician Biodiversification. Climate and impacts 2022, Paris, France.
 
-__[30*]__ Keane, A., __Pohl, A.__, Dijkstra, H.A., Ridgwell, A. Stable delay-induced oscillations in large-scale ocean circulation. Joint 8th IFAC Symposium on System Structure and Control, 17th IFAC Workshop on Time Delay Systems, 5th IFAC Workshop on Linear Parameter Varying Systems, Montreal, Canada, 2022.
+__[30]__ Charton, R., __Pohl, A.__, Bruna, P.-O., Rongier, G., Maffre, P. Erosional exhumation hotspot maps, feasibility study for the Phanerozoic. Nederlands Aardwetenschappelijk Congres (NAC), Utrecht, The Netherlands, 2022.
 
-__[29*]__ Wong Hearing, T.W., \*__Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A. Climate data and model constraints on Cambrian palaeogeography. 21th International Sedimentological Congress 2022 (online). \* Presenter
+__[29]__ Wong Hearing, T.W., \*__Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A. Climate data and model constraints on Cambrian palaeogeography. 21th International Sedimentological Congress 2022 (online). \* Presenter
 
 __[28]__ __Pohl, A.__, Lu Z., Lu W., Stockey R.G., Elrick M., Li M., Desrochers A., Shen Y., He R., Finnegan S., Ridgwell A. Une réorganisation de la circulation océanique à l’origine de l’anoxie au cours de la glaciation de l’Ordovicien terminal. RST 2021, Lyon (France).
 
