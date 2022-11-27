@@ -9,6 +9,8 @@ nav: true
 (*) upcoming
 (**) to be confirmed
 
+<p>&nbsp;</p>
+
 ## Sessions
 
 __[3]__ **Zahirovic S., __Pohl A.__, Sarr, A.-C., Arnould, M., Leonard, J. Data and models constraining Earth's deep-time paleogeography. EGU 2023, Vienna, Austria. [[link](https://meetingorganizer.copernicus.org/EGU23/sessionmodification/46203){:target="_blank"}] 
