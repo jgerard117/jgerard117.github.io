@@ -82,6 +82,7 @@ Journals
 <li>Chemical Geology</li>
 <li>Geological Society of London Special Publications</li>
 <li>Journal of Asian Earth Sciences</li>
+<li>Earth and Planetary Science Letters</li>
 </ul>
 
 Projects
