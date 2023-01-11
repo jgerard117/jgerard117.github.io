@@ -83,6 +83,7 @@ Journals
 <li>Geological Society of London Special Publications</li>
 <li>Journal of Asian Earth Sciences</li>
 <li>Earth and Planetary Science Letters</li>
+<li>Marine and Petroleum Geology</li>
 </ul>
 
 Projects
