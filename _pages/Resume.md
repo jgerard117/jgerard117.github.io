@@ -41,13 +41,13 @@ nav: true
 
 <p>&nbsp;</p>
 
-<h2>Other supervision responsabilities</h2>
+<h2>Other supervision responsibilities</h2>
 
 - `2021–2022`: Member of the evaluation committee, Master in Earth Sciences,  Université Libre de Bruxelles (Brussels, Belgium).
 
 <p>&nbsp;</p>
 
-<h2>Other administrative responsabilities</h2>
+<h2>Other administrative responsibilities</h2>
 
 - `2021–prst` Member of the communication staff, Biogéosciences 
 
