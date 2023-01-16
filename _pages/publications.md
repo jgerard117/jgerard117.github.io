@@ -6,6 +6,16 @@ description: Updated list of written publications
 nav: true
 ---
 
+(**) Students supervised
+
+<h2>Preprints</h2>
+
+__[2]__ **Eliahou Ontiveros, D., Beaugrand, G., Lefebvre, B., Markussen Marcilly, C., Servais, T., __Pohl, A__. Cooling Oceans Did Trigger Ordovician Biodiversification. In review for Nature Communications [[link](https://www.researchsquare.com/article/rs-2259938/v1){:target="_blank"}].
+
+__[1]__ Keane, A., __Pohl, A.__, Dijkstra, H. A., Ridgwell, A. A simple mechanism for stable oscillations in the large-scale ocean circulation. In review for Climate Dynamics [[link](https://arxiv.org/abs/2201.07883){:target="_blank"}]. 
+
+<p>&nbsp;</p>
+
 <h2>International Publications</h2>
 
 ##### `2022`
