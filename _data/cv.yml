@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Justin Gérard
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21th December 1998
     - name: Languages
-      value: English, German
+      value: French, English, Dutch
 
 - title: Education
   type: time_table

@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: List of the course
 nav: true
 nav_order: 5
+TP_pdf = LPHY1101_TP_solutions.pdf
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have the pleasure to be teaching assistant for the course LPHY1101 Physique 1. 
 
-Organize your courses by years, topics, or universities, however you like!
