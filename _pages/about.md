@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: [comment]: <> (<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.)
 
 profile:
   align: right
@@ -14,10 +14,10 @@ profile:
     <p>Louvain-la-Neuve, BE</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-As a PhD student in earth sciences, I focus on modelling past cliamte using the [cGENIE](https://www.seao2.info/mymuffin.html) framework. I try to evaluate existing hypotheses and understand the mechanisms that can trigger and maintain anoxia as part of the WarmAnoxia project. The incorporation of geological, chemical, and biological data into the model, will help us to investigate the possible links between astronomical forcing and anoxic events throughout the Devonian period. 
+As a PhD student in earth sciences, I focus on modelling past cliamte using the [cGENIE](https://www.seao2.info/mymuffin.html) framework (the best model in the world). I try to evaluate existing hypotheses and understand the mechanisms that can trigger and maintain anoxia as part of the WarmAnoxia project. The incorporation of geological, chemical, and biological data into the model, will help us to investigate the possible links between astronomical forcing and anoxic events throughout the Devonian period. 
 
 You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
